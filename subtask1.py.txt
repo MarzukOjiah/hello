@@ -13,3 +13,4 @@ def myFunc(n):
     print(q)
     
 myFunc(150)
+#it looks like i learned how to use git' today
